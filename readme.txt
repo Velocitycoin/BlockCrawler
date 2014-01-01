@@ -15,7 +15,7 @@ top you will find the following code:
 	Wallet Configuration
 ******************************************************************************/
 	$GLOBALS["wallet_ip"] = "127.0.0.1";
-	$GLOBALS["wallet_port"] = "8332";
+	$GLOBALS["wallet_port"] = "21334";
 	$GLOBALS["wallet_user"] = "username";
 	$GLOBALS["wallet_pass"] = "password";
 	
